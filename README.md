@@ -1,16 +1,16 @@
-### Hi there 👋
+👨🏻‍💻 About Me:
+🙋‍♂️ All about me is at My Website
 
-<!--
-**Riyaz-mirza/Riyaz-mirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Something Intresting.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Full stack deveopment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate for Web development Projects.
+
+🤔 I’m looking for help with Competitive Programming.
+
+💬 Ask me about anything, Except Maths 😅
+
+👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
+
+⚡ Fun fact: I waste most of my time on Big Thinking 😅.
